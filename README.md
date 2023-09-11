@@ -1,4 +1,4 @@
-[![Data School logo](https://github.com/justmarkham/justmarkham/assets/6509492/b85823bf-93c4-4b99-bc43-df93abb8c61d)](https://tuesday.tips/?utm_campaign=github&utm_source=justmarkham&utm_medium=web "Click here to get better at Data Science every week 📈")
+[![](data_school_banner.jpg)](https://tuesday.tips/?utm_campaign=github&utm_source=justmarkham&utm_medium=web&utm_content=logo)
 
 # Welcome to Data School!
 
