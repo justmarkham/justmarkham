@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Welcome to Data School!
 
-<!--
-**justmarkham/justmarkham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kevin Markham, and **I've taught Data Science in Python to over a million students.**
 
-Here are some ideas to get you started:
+My tutorials explain Data Science topics in a clear, thorough, and step-by-step manner.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'd love to teach you, regardless of your educational background or professional experience.
+
+**If you're ready to learn Data Science and start your new career, I'd love for you to join me!** 🚀
+
+# Here's how to get started (for free):
+
+1. [Sign up for Tuesday Tips](https://tuesday.tips/?utm_campaign=github&utm_source=justmarkham&utm_medium=web) - I'll help you get better at Data Science every week!
+2. [Enroll in one of my courses](https://courses.dataschool.io/?utm_campaign=github&utm_source=justmarkham&utm_medium=web) - I can teach you Python or Machine Learning!
+3. [Check out my catalog of resources](https://www.dataschool.io/start/?utm_campaign=github&utm_source=justmarkham&utm_medium=web) - I've got tutorials on a dozen Data Science topics!
+
+# Let's connect:
+
+- [YouTube](https://www.youtube.com/@dataschool) (200,000+)
+- [LinkedIn](https://www.linkedin.com/in/justmarkham/) (50,000+)
+- [Twitter](https://twitter.com/justmarkham) (20,000+)
+- [Facebook](https://www.facebook.com/DataScienceSchool/) (6,000+)
