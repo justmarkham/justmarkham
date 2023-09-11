@@ -1,4 +1,6 @@
-# 👋 Welcome to Data School!
+[![Data School logo](https://github.com/justmarkham/justmarkham/assets/6509492/b85823bf-93c4-4b99-bc43-df93abb8c61d)](https://tuesday.tips/?utm_campaign=github&utm_source=justmarkham&utm_medium=web "Click here to get better at Data Science every week 📈")
+
+# Welcome to Data School!
 
 My name is Kevin Markham, and **I've taught Data Science in Python to over a million students.**
 
@@ -10,8 +12,8 @@ I'd love to teach you, regardless of your educational background or professional
 
 # Here's how to get started (for free):
 
-1. [Sign up for Tuesday Tips](https://tuesday.tips/?utm_campaign=github&utm_source=justmarkham&utm_medium=web) - I'll help you get better at Data Science every week!
-2. [Enroll in one of my courses](https://courses.dataschool.io/?utm_campaign=github&utm_source=justmarkham&utm_medium=web) - I can teach you Python or Machine Learning!
+1. [Sign up for my "Tuesday Tips" newsletter](https://tuesday.tips/?utm_campaign=github&utm_source=justmarkham&utm_medium=web) - I'll help you get better at Data Science every week!
+2. [Enroll in one of my online courses](https://courses.dataschool.io/?utm_campaign=github&utm_source=justmarkham&utm_medium=web) - I can teach you Python or Machine Learning!
 3. [Check out my catalog of resources](https://www.dataschool.io/start/?utm_campaign=github&utm_source=justmarkham&utm_medium=web) - I've got tutorials on a dozen Data Science topics!
 
 # Let's connect:
